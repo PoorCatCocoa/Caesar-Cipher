@@ -1,5 +1,6 @@
 # The Encryption Function
 # def encrypt(o_mes, en_key):
+#fafafa
 
 o_mes = 'abc'
 en_key = 5
